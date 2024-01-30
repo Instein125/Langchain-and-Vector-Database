@@ -1,3 +1,4 @@
 langchain/
 *.env
 projects/understanding twitter algoritm/the-algorithm
+projects/Chat with Github Repo/repos
